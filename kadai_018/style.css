@@ -8,8 +8,7 @@
     background-color: #ffd9df;
     width: 20%;
     display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 10px auto 10px auto;
 }
 #middle{
     width: 800px;
